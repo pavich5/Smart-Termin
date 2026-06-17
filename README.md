@@ -110,7 +110,7 @@ dotnet build SmartTermin.sln
 
 - Deploy `api/SmartTermin.Api` to your preferred ASP.NET Core host.
 - Supply all secrets through environment variables or private configuration files not committed to git.
-- Keep `PADDLE_API_KEY`, database credentials, SMTP credentials, and Firebase service-account files outside the repository.
+- Keep `PADDLE_API_KEY`, database credentials, SMTP credentials, and Firebase service-account files outside the repository
 
 ## Documentation
 
