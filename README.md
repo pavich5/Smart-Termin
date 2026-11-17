@@ -114,4 +114,4 @@ dotnet build SmartTermin.sln
 
 ## Documentation
 
-- API guide: [`docs/API.md`](docs/API.md)
+- API guide: [`docs/API.md`]
